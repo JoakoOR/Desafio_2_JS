@@ -54,7 +54,7 @@ function password() {
         res.innerHTML = 'Password 2 correcto.';
     }
     else {
-        res.innerHTML = 'Password 2 incorrecto';
+        res.innerHTML = 'Password incorrecto';
     }
 }
 
